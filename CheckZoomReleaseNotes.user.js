@@ -6,6 +6,7 @@
 // @author       Daniel Victoriano <victoriano518@gmail.com>
 // @match        https://support.zoom.us/hc/en-us/sections/*Release-Notes
 // @run-at       default
+// @updateURL    https://github.com/tidusx18/zoom-release-notes/raw/master/CheckZoomReleaseNotes.user.js
 // @noframes
 // @grant        none
 // ==/UserScript==
